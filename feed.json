@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Raj Online Solutions",
+    "description": "",
+    "home_page_url": "https://AdityaRajpoot.github.io/RajOnlineSolutions",
+    "feed_url": "https://AdityaRajpoot.github.io/RajOnlineSolutions/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aditya Rajpoot"
+    },
+    "items": [
+    ]
+}

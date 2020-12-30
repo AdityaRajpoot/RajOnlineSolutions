@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://AdityaRajpoot.github.io/RajOnlineSolutions/sitemap.xml

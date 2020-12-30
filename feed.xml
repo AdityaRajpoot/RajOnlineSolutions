@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Raj Online Solutions</title>
+    <link href="https://AdityaRajpoot.github.io/RajOnlineSolutions/feed.xml" rel="self" />
+    <link href="https://AdityaRajpoot.github.io/RajOnlineSolutions" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Aditya Rajpoot</name>
+    </author>
+    <id>https://AdityaRajpoot.github.io/RajOnlineSolutions</id>
+
+</feed>
